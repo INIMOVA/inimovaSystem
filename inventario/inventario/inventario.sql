@@ -1,0 +1,2 @@
+CREATE TABLE new_table_name AS SELECT column1, column2, column3, column4 (usar * para seleccionar todas las columnas para ser adicionadas a la tabla nueva) 
+FROM current_table_name WHERE conditions_exist
